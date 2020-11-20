@@ -3,7 +3,7 @@
     {
       "id": "0",
       "name": "Uthappizza",
-      "image": "images/7ade2.jpg",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
       "category": "mains",
       "featured": true,
       "label": "Hot",
@@ -51,7 +51,7 @@
     {
       "id": "1",
       "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.jpg",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
       "category": "appetizer",
       "featured": false,
       "label": "",
@@ -93,7 +93,7 @@
     {
       "id": "2",
       "name": "Vadonut",
-      "image": "images/spaghetti.jpg",
+      "image": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
       "category": "appetizer",
       "featured": false,
       "label": "New",
@@ -135,7 +135,7 @@
     {
       "id": "3",
       "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.jpeg",
+      "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80",
       "category": "dessert",
       "featured": false,
       "label": "",
@@ -179,7 +179,7 @@
     {
       "id": "0",
       "name": "Weekend Grand Buffet",
-      "image": "images/bbq.jpeg",
+      "image": "https://images.unsplash.com/photo-1521305916504-4a1121188589?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
       "featured": true,
       "label": "New",
       "price": "19.99",
@@ -190,7 +190,7 @@
     {
       "id": "0",
       "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "image": "https://i.imgur.com/w40weOh.jpg",
       "designation": "Chief Epicurious Officer",
       "featured": false,
       "abbr": "CEO",
@@ -199,7 +199,7 @@
     {
       "id": "1",
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/alberto.png",
+      "image": "https://i.imgur.com/w40weOh.jpg",
       "designation": "Chief Food Officer",
       "featured": false,
       "abbr": "CFO",
@@ -208,7 +208,7 @@
     {
       "id": "2",
       "name": "Agumbe Tang",
-      "image": "images/alberto.png",
+      "image": "https://i.imgur.com/w40weOh.jpg",
       "designation": "Chief Taste Officer",
       "featured": false,
       "abbr": "CTO",
@@ -217,7 +217,7 @@
     {
       "id": "3",
       "name": "Ahmed Said",
-      "image": "images/ahmed.jpg",
+      "image": "https://i.imgur.com/w40weOh.jpg",
       "designation": "Executive Chef",
       "featured": true,
       "abbr": "EC",
